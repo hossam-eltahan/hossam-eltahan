@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Hossam Eltahan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=time+new+roman&size=25&pause=1000&color=5AF73F&width=435&lines="Cyber+Security+ Engineer;Computer+Science+Student" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=time+new+roman&size=25&pause=1000&color=5AF73F&width=435&lines=Full+Stack+Laravel+Developer;Computer+Science+Student" alt="Typing SVG" /></a>
 </p>
 
 
