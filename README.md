@@ -26,12 +26,13 @@
 
 <br><br>
 
-- :school: I am a `Student` at [Faculty of Computer Science & Information Technology ] at <a href=(https://ci.tanta.edu.eg/)>  [Tanta University].</a>
-- :technologist: I love using Software as a solution for every `Problem`.
-- :books: I am a `Full Stack` developer and I love using it to build scalable
-- :computer: I am a competitive programmer at `Codeforces`, `Leetcode`.
-- :student: I’m currently learning `Computer Science` and `Web Development`.
-- :nerd_face: Always `learning new things`.
+- 🎓 **Education**: Final year Computer Science student at [Tanta University](https://ci.tanta.edu.eg/) (Expected Graduation: June 2026).
+- 🛡️ **Cybersecurity Enthusiast**: Focused on SOC Operations, Network Security, and Incident Response.
+- 💻 **Experience**: Former **Fortinet Cybersecurity Engineer Intern** and **Coding Instructor** at Ischool.
+- 🚀 **Projects**: Developing an **AI-Enhanced HIDS** (Intelligent Response Agent) inspired by Wazuh architecture.
+- 🛠️ **Skills**: Proficient in FortiGate, Python, C++, Linux (Ubuntu/Kali), and Network Administration (CCNA).
+- 🏆 **Training**: Completed CyberOps Associate training at the National Telecommunication Institute (NTI).
+- 🗣️ **Languages**: Arabic (Native), English (B2), and German (A2).
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1g4YhGyQmX-4F1AtcJGpLfo54WDzY6MDA/view?usp=sharing).
 <br>
 
