@@ -32,7 +32,7 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`.
 - :student: I’m currently learning `Computer Science` and `Web Development`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]([https://drive.google.com/file/d/1NLD31kEKmVEqcx-JA5ej7w5NqKLwQofq/view?usp=sharing](https://drive.google.com/file/d/1g4YhGyQmX-4F1AtcJGpLfo54WDzY6MDA/view?usp=sharing)).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]([https://drive.google.com/file/d/1g4YhGyQmX-4F1AtcJGpLfo54WDzY6MDA/view?usp=sharing]).
 <br>
 
 
